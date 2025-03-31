@@ -22,3 +22,4 @@ joblib
 h5py
 tqdm
 imblearn
+flask
